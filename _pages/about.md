@@ -18,7 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <br/><br/>
-Hi, I"m Chad from Taiwan. Currently I'm pursuing my Ph.D. program in the department of Electrical Engineering.  
+Hi, I"m Chad from Taiwan.  
+Currently I'm pursuing my Ph.D. in Electrical Engineering.  
 Most of my researches are `Physiological Responses` toward `Affective Multimedia` and `Neural Imaging`.  
 Feel free to contact me if you feel interested in my works or just want to have a chat :)
 
