@@ -62,7 +62,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: chad's blog  # your blog must have a name for it to show up in the nav bar
+blog_name: #chad's blog  # your blog must have a name for it to show up in the nav bar
 blog_description: PhD x AI x Human 
 permalink: /blog/:year/:title/
 

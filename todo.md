@@ -1,0 +1,3 @@
+- add website (? acii)
+- add projects
+- add blog (add blog_name in _config.yaml to enable blogging)
