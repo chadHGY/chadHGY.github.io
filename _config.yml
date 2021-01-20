@@ -39,22 +39,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
+github_username: chadHGY # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+linkedin_username: chad-yang # your LinkedIn user name
+scholar_userid: P9G_-kcAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-3724-5055 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+publons_id: AAA-3988-2021 # your ID on Publons
+research_gate_profile: Hao_Chun_Yang2 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -62,8 +62,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: chad's blog  # your blog must have a name for it to show up in the nav bar
+blog_description: PhD x AI x Human 
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -71,7 +71,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -85,8 +85,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
 news_limit: 5
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
