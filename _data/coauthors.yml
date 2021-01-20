@@ -1,19 +1,10 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Lee":
+  - firstname: ["Chi-Chun"]
+    url: https://biic.ee.nthu.edu.tw/cclee.php
 
-
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Hsieh":
+  - firstname: ["Wan-Ting"]
+    url: https://www.linkedin.com/in/hsieh-wan-ting/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
