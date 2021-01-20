@@ -22,7 +22,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Layout
 # -----------------------------------------------------------------------------
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -43,10 +43,10 @@ github_username: chadHGY # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: chad-yang # your LinkedIn user name
 scholar_userid: P9G_-kcAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-3724-5055 # your ORCID ID
+orcid_id: # 0000-0003-3724-5055 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: AAA-3988-2021 # your ID on Publons
+publons_id: # AAA-3988-2021 # your ID on Publons
 research_gate_profile: Hao_Chun_Yang2 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
