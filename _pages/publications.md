@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=P9G_-kcAAAAJ" target="_blank" title="Google Scholar">Google Scholar profile</a>.</u>
+description: You can also find all articles on my <u><a href="https://scholar.google.com/citations?user=P9G_-kcAAAAJ" target="_blank" title="Google Scholar">Google Scholar profile</a>.</u>
 years: [2020, 2019, 2018]
 nav: true
 ---
