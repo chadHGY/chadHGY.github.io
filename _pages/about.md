@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D Student at <a href="#">BIICLab</a>. National Tsing Hua University, Taiwan.
+description: Ph.D Student at <a href="https://biic.ee.nthu.edu.tw/" target="blank">BIICLab</a>. National Tsing Hua University, Taiwan.
 
 profile:
   align: right
