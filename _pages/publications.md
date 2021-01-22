@@ -5,6 +5,7 @@ title: publications
 description: You can also find all articles on my <u><a href="https://scholar.google.com/citations?user=P9G_-kcAAAAJ" target="_blank" title="Google Scholar">Google Scholar profile</a>.</u>
 years: [2020, 2019, 2018]
 nav: true
+social: true
 ---
 
 <div class="publications">
@@ -14,4 +15,10 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+{% if page.social %}
+<div class="social">
+  {% include social.html %}
+  <div class="contact-note">{{ site.contact_note }}</div>
+</div>
+{% endif %}
 </div>
