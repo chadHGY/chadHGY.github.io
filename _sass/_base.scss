@@ -153,6 +153,21 @@ a, table.table a {
   }
 }
 
+.social-nav {
+  text-align: center;
+  .contact-icon {
+    font-size: 2rem;
+    a {
+      color: var(--global-icon-color);
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .contact-note {
+    font-size: 0.8rem;
+  }
+}
 
 // News
 
