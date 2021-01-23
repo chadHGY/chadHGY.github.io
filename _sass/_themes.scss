@@ -11,6 +11,7 @@
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-icon-color: #{$grey-color-dark};
+  --global-badge-color: #{$color-badge-light};
 
   .fa-sun {
     display : none;
@@ -31,6 +32,7 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-icon-color: navajowhite;
+  --global-badge-color: #{$color-badge-dark};
 
   .fa-sun {
     padding-left: 10px;
