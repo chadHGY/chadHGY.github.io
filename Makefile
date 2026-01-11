@@ -6,4 +6,4 @@ run_server: ## start jekyll server locally
 
 .PHONY: run_publish
 run_publish: ## start jekyll server locally
-	@./run_deploy_publish.sh
+	@./run_publish_github.sh
