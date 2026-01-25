@@ -1,1 +1,3 @@
-jupyter==1.1.1
+nbconvert
+pyyaml
+scholarly
